@@ -4,6 +4,9 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: iterate GmbH Website
+    url: https://iterate.ch/
+    method: GET
   - name: Cyberduck Website
     url: https://cyberduck.io/
     method: GET
