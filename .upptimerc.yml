@@ -25,7 +25,17 @@ sites:
   - name: Mountain Duck Update Check
     url: https://version.mountainduck.io/
     method: GET
-
+  - name: Mountain Duck Payment Gateway
+    url: https://reg.mountainduck.io/payment
+    method: POST
+    expectedStatusCodes:
+      - 400
+  - name: Cyberduck Payment Gateway
+    url: https://reg.cyberduck.io/payment
+    method: POST
+    expectedStatusCodes:
+      - 403
+      
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
