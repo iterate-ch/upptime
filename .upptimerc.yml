@@ -6,16 +6,22 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Cyberduck Website
     url: https://cyberduck.io/
+    method: GET
   - name: Cyberduck Update Check
     url: https://version.cyberduck.io/
+    method: GET
   - name: Cyberduck CLI
     url: https://duck.sh/
+    method: GET
   - name: Cyberduck Trac
     url: https://trac.cyberduck.io/
+    method: GET
   - name: Mountain Duck
     url: https://mountainduck.io/
+    method: GET
   - name: Mountain Duck Update Check
     url: https://version.mountainduck.io/
+    method: GET
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
