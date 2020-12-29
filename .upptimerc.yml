@@ -6,33 +6,33 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: iterate GmbH Website
     url: https://iterate.ch/
-    method: HEAD
+    method: GET
   - name: iterate GmbH JIRA
     url: https://jira.iterate.ch/
-    method: HEAD
+    method: GET
   - name: iterate GmbH Bitbucket
     url: https://g.iterate.ch/
-    method: HEAD
+    method: GET
     expectedStatusCodes:
       - 302
   - name: Cyberduck Website
     url: https://cyberduck.io/
-    method: HEAD
+    method: GET
   - name: Cyberduck Update Check
     url: https://version.cyberduck.io/
-    method: HEAD
+    method: GET
   - name: Cyberduck CLI
     url: https://duck.sh/
-    method: HEAD
+    method: GET
   - name: Cyberduck Trac
     url: https://trac.cyberduck.io/
-    method: HEAD
+    method: GET
   - name: Mountain Duck
     url: https://mountainduck.io/
-    method: HEAD
+    method: GET
   - name: Mountain Duck Update Check
     url: https://version.mountainduck.io/
-    method: HEAD
+    method: GET
   - name: Mountain Duck Payment Gateway
     url: https://reg.mountainduck.io/payment
     method: POST
