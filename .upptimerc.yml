@@ -42,7 +42,7 @@ sites:
     url: https://reg.cyberduck.io/payment
     method: POST
     expectedStatusCodes:
-      - 403
+      - 402
       
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
