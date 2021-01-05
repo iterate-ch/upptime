@@ -51,13 +51,10 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://iterate.ch/img/iterate.svg
   name: Upptime iterate GmbH
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Uptime monitor and status page for iterate GmbH"
   introMessage: Status for sites managed by iterate GmbH
   navbar:
     - title: Status
       href: /
     - title: iterate GmbH
       href: https://iterate.ch/
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
