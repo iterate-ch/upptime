@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 467,
-    "timeDay": 414,
-    "timeWeek": 400,
+    "timeDay": 421,
+    "timeWeek": 396,
     "timeMonth": 418,
     "timeYear": 467,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.83%",
     "time": 813,
-    "timeDay": 744,
-    "timeWeek": 832,
-    "timeMonth": 830,
-    "timeYear": 814,
+    "timeDay": 656,
+    "timeWeek": 798,
+    "timeMonth": 825,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2021-12-17": 17,
       "2021-11-17": 576,
@@ -71,15 +71,15 @@
     "icon": "https://favicons.githubusercontent.com/g.iterate.ch",
     "slug": "iterate-gmb-h-bitbucket",
     "status": "down",
-    "uptime": "88.44%",
+    "uptime": "88.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.58%",
+    "uptimeYear": "88.85%",
     "time": 671,
-    "timeDay": 671,
-    "timeWeek": 735,
-    "timeMonth": 746,
+    "timeDay": 674,
+    "timeWeek": 709,
+    "timeMonth": 743,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2021-02-09": 1035,
@@ -121,8 +121,7 @@
       "2021-01-04": 1440,
       "2021-01-03": 1440,
       "2021-01-02": 1440,
-      "2021-01-01": 1440,
-      "2020-12-31": 1440
+      "2021-01-01": 1440
     }
   },
   {
@@ -137,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 489,
-    "timeDay": 421,
-    "timeWeek": 474,
-    "timeMonth": 464,
+    "timeDay": 402,
+    "timeWeek": 450,
+    "timeMonth": 462,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2021-02-16": 22
@@ -157,9 +156,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 740,
-    "timeDay": 790,
-    "timeWeek": 897,
-    "timeMonth": 755,
+    "timeDay": 609,
+    "timeWeek": 858,
+    "timeMonth": 750,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2021-02-16": 45
@@ -177,9 +176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 433,
-    "timeDay": 320,
-    "timeWeek": 1129,
-    "timeMonth": 574,
+    "timeDay": 343,
+    "timeWeek": 1116,
+    "timeMonth": 566,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2021-02-16": 44
@@ -196,10 +195,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 599,
-    "timeDay": 392,
-    "timeWeek": 1737,
-    "timeMonth": 767,
+    "time": 598,
+    "timeDay": 393,
+    "timeWeek": 1708,
+    "timeMonth": 755,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2021-11-29": 20,
@@ -218,10 +217,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 484,
-    "timeDay": 392,
-    "timeWeek": 464,
-    "timeMonth": 475,
+    "time": 483,
+    "timeDay": 418,
+    "timeWeek": 447,
+    "timeMonth": 473,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2021-02-16": 44
@@ -239,9 +238,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 569,
-    "timeDay": 466,
-    "timeWeek": 544,
-    "timeMonth": 553,
+    "timeDay": 491,
+    "timeWeek": 524,
+    "timeMonth": 551,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2021-02-16": 44
@@ -259,9 +258,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 849,
-    "timeDay": 693,
-    "timeWeek": 924,
-    "timeMonth": 855,
+    "timeDay": 695,
+    "timeWeek": 906,
+    "timeMonth": 849,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2021-02-16": 43
@@ -277,11 +276,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.33%",
+    "uptimeYear": "98.44%",
     "time": 675,
-    "timeDay": 575,
-    "timeWeek": 647,
-    "timeMonth": 654,
+    "timeDay": 550,
+    "timeWeek": 625,
+    "timeMonth": 650,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2021-02-16": 33,
@@ -289,8 +288,7 @@
       "2021-01-04": 1440,
       "2021-01-03": 1440,
       "2021-01-02": 1440,
-      "2021-01-01": 1440,
-      "2020-12-31": 1440
+      "2021-01-01": 1440
     }
   }
 ]
