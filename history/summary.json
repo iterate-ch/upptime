@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 466,
-    "timeDay": 309,
-    "timeWeek": 370,
+    "timeDay": 412,
+    "timeWeek": 366,
     "timeMonth": 418,
-    "timeYear": 467,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2021-02-16": 32
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.83%",
-    "time": 813,
-    "timeDay": 743,
-    "timeWeek": 768,
-    "timeMonth": 824,
-    "timeYear": 814,
+    "time": 812,
+    "timeDay": 660,
+    "timeWeek": 724,
+    "timeMonth": 823,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2021-12-17": 17,
       "2021-11-17": 576,
@@ -71,14 +71,14 @@
     "icon": "https://favicons.githubusercontent.com/g.iterate.ch",
     "slug": "iterate-gmb-h-bitbucket",
     "status": "down",
-    "uptime": "88.53%",
+    "uptime": "88.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.40%",
+    "uptimeYear": "89.68%",
     "time": 671,
-    "timeDay": 712,
-    "timeWeek": 698,
+    "timeDay": 680,
+    "timeWeek": 672,
     "timeMonth": 745,
     "timeYear": 671,
     "dailyMinutesDown": {
@@ -118,8 +118,7 @@
       "2021-01-07": 1440,
       "2021-01-06": 1440,
       "2021-01-05": 1440,
-      "2021-01-04": 1440,
-      "2021-01-03": 1440
+      "2021-01-04": 1440
     }
   },
   {
@@ -134,8 +133,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 488,
-    "timeDay": 405,
-    "timeWeek": 422,
+    "timeDay": 393,
+    "timeWeek": 395,
     "timeMonth": 461,
     "timeYear": 489,
     "dailyMinutesDown": {
@@ -154,8 +153,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 739,
-    "timeDay": 569,
-    "timeWeek": 806,
+    "timeDay": 610,
+    "timeWeek": 768,
     "timeMonth": 747,
     "timeYear": 741,
     "dailyMinutesDown": {
@@ -174,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 432,
-    "timeDay": 300,
-    "timeWeek": 1087,
-    "timeMonth": 562,
+    "timeDay": 343,
+    "timeWeek": 1071,
+    "timeMonth": 563,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2021-02-16": 44
@@ -193,11 +192,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 597,
-    "timeDay": 370,
-    "timeWeek": 1674,
+    "time": 596,
+    "timeDay": 382,
+    "timeWeek": 1641,
     "timeMonth": 752,
-    "timeYear": 599,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2021-11-29": 20,
       "2021-11-13": 27,
@@ -216,9 +215,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 483,
-    "timeDay": 366,
-    "timeWeek": 416,
-    "timeMonth": 466,
+    "timeDay": 462,
+    "timeWeek": 396,
+    "timeMonth": 468,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2021-02-16": 44
@@ -236,8 +235,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 568,
-    "timeDay": 441,
-    "timeWeek": 495,
+    "timeDay": 471,
+    "timeWeek": 469,
     "timeMonth": 549,
     "timeYear": 570,
     "dailyMinutesDown": {
@@ -256,10 +255,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 849,
-    "timeDay": 926,
-    "timeWeek": 844,
-    "timeMonth": 854,
-    "timeYear": 850,
+    "timeDay": 752,
+    "timeWeek": 825,
+    "timeMonth": 856,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2021-02-16": 43
     }
@@ -270,21 +269,20 @@
     "icon": "https://favicons.githubusercontent.com/reg.cyberduck.io",
     "slug": "cyberduck-payment-gateway",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "99.26%",
     "time": 675,
-    "timeDay": 758,
-    "timeWeek": 630,
-    "timeMonth": 655,
+    "timeDay": 713,
+    "timeWeek": 635,
+    "timeMonth": 660,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2021-02-16": 33,
       "2021-01-05": 1005,
-      "2021-01-04": 1440,
-      "2021-01-03": 1440
+      "2021-01-04": 1440
     }
   }
 ]
