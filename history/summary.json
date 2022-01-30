@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 464,
-    "timeDay": 319,
-    "timeWeek": 389,
-    "timeMonth": 430,
+    "timeDay": 388,
+    "timeWeek": 399,
+    "timeMonth": 429,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2021-02-16": 32
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/jira.iterate.ch",
     "slug": "iterate-gmb-h-jira",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.58%",
+    "uptimeWeek": "94.44%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "98.62%",
-    "time": 816,
-    "timeDay": 635,
-    "timeWeek": 811,
-    "timeMonth": 842,
-    "timeYear": 819,
+    "time": 817,
+    "timeDay": 1460,
+    "timeWeek": 876,
+    "timeMonth": 862,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2022-01-23": 568,
       "2022-01-22": 683,
@@ -63,8 +63,7 @@
       "2021-04-23": 11,
       "2021-03-18": 325,
       "2021-02-17": 15,
-      "2021-02-09": 4,
-      "2021-01-30": 283
+      "2021-02-09": 4
     }
   },
   {
@@ -73,15 +72,15 @@
     "icon": "https://favicons.githubusercontent.com/g.iterate.ch",
     "slug": "iterate-gmb-h-bitbucket",
     "status": "down",
-    "uptime": "89.32%",
+    "uptime": "89.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.80%",
+    "uptimeYear": "97.07%",
     "time": 678,
-    "timeDay": 684,
-    "timeWeek": 749,
-    "timeMonth": 763,
+    "timeDay": 621,
+    "timeWeek": 747,
+    "timeMonth": 762,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2021-02-09": 1035,
@@ -93,8 +92,7 @@
       "2021-02-03": 1440,
       "2021-02-02": 1440,
       "2021-02-01": 1440,
-      "2021-01-31": 1440,
-      "2021-01-30": 1440
+      "2021-01-31": 1440
     }
   },
   {
@@ -109,10 +107,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 390,
-    "timeWeek": 455,
-    "timeMonth": 460,
-    "timeYear": 491,
+    "timeDay": 394,
+    "timeWeek": 459,
+    "timeMonth": 459,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2021-02-16": 22
     }
@@ -129,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 738,
-    "timeDay": 606,
-    "timeWeek": 704,
-    "timeMonth": 718,
+    "timeDay": 574,
+    "timeWeek": 705,
+    "timeMonth": 711,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2021-02-16": 45
@@ -149,8 +147,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 431,
-    "timeDay": 325,
-    "timeWeek": 403,
+    "timeDay": 327,
+    "timeWeek": 405,
     "timeMonth": 404,
     "timeYear": 434,
     "dailyMinutesDown": {
@@ -168,9 +166,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 589,
-    "timeDay": 422,
-    "timeWeek": 475,
+    "time": 588,
+    "timeDay": 381,
+    "timeWeek": 464,
     "timeMonth": 461,
     "timeYear": 592,
     "dailyMinutesDown": {
@@ -191,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 483,
-    "timeDay": 410,
-    "timeWeek": 472,
-    "timeMonth": 473,
+    "timeDay": 485,
+    "timeWeek": 486,
+    "timeMonth": 476,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2021-02-16": 44
@@ -210,10 +208,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 568,
-    "timeDay": 600,
-    "timeWeek": 565,
-    "timeMonth": 548,
+    "time": 567,
+    "timeDay": 435,
+    "timeWeek": 564,
+    "timeMonth": 547,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2021-02-16": 44
@@ -231,9 +229,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 847,
-    "timeDay": 698,
-    "timeWeek": 808,
-    "timeMonth": 810,
+    "timeDay": 819,
+    "timeWeek": 836,
+    "timeMonth": 814,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2021-02-16": 43
@@ -245,15 +243,15 @@
     "icon": "https://favicons.githubusercontent.com/reg.cyberduck.io",
     "slug": "cyberduck-payment-gateway",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 674,
-    "timeDay": 600,
-    "timeWeek": 662,
-    "timeMonth": 662,
+    "timeDay": 524,
+    "timeWeek": 657,
+    "timeMonth": 660,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2021-02-16": 33
