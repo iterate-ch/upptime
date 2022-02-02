@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 464,
-    "timeDay": 326,
-    "timeWeek": 429,
-    "timeMonth": 432,
+    "timeDay": 438,
+    "timeWeek": 407,
+    "timeMonth": 436,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2021-02-16": 32
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/jira.iterate.ch",
     "slug": "iterate-gmb-h-jira",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "98.67%",
     "time": 818,
-    "timeDay": 702,
-    "timeWeek": 926,
-    "timeMonth": 875,
-    "timeYear": 821,
+    "timeDay": 859,
+    "timeWeek": 896,
+    "timeMonth": 878,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2022-01-23": 568,
       "2022-01-22": 683,
@@ -72,15 +72,15 @@
     "icon": "https://favicons.githubusercontent.com/g.iterate.ch",
     "slug": "iterate-gmb-h-bitbucket",
     "status": "down",
-    "uptime": "89.40%",
+    "uptime": "89.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.61%",
+    "uptimeYear": "97.89%",
     "time": 679,
-    "timeDay": 669,
-    "timeWeek": 804,
-    "timeMonth": 774,
+    "timeDay": 842,
+    "timeWeek": 771,
+    "timeMonth": 778,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2021-02-09": 1035,
@@ -89,8 +89,7 @@
       "2021-02-06": 1440,
       "2021-02-05": 1440,
       "2021-02-04": 1440,
-      "2021-02-03": 1440,
-      "2021-02-02": 1440
+      "2021-02-03": 1440
     }
   },
   {
@@ -105,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 426,
-    "timeWeek": 515,
-    "timeMonth": 471,
+    "timeDay": 586,
+    "timeWeek": 496,
+    "timeMonth": 477,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2021-02-16": 22
@@ -125,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 739,
-    "timeDay": 627,
-    "timeWeek": 788,
-    "timeMonth": 729,
-    "timeYear": 746,
+    "timeDay": 836,
+    "timeWeek": 746,
+    "timeMonth": 738,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2021-02-16": 45
     }
@@ -145,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 431,
-    "timeDay": 324,
-    "timeWeek": 444,
-    "timeMonth": 413,
+    "timeDay": 460,
+    "timeWeek": 426,
+    "timeMonth": 418,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2021-02-16": 44
@@ -165,10 +164,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 588,
-    "timeDay": 445,
-    "timeWeek": 512,
-    "timeMonth": 473,
-    "timeYear": 591,
+    "timeDay": 597,
+    "timeWeek": 501,
+    "timeMonth": 480,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2021-11-29": 20,
       "2021-11-13": 27,
@@ -186,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 483,
-    "timeDay": 399,
-    "timeWeek": 524,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "time": 484,
+    "timeDay": 557,
+    "timeWeek": 500,
+    "timeMonth": 493,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2021-02-16": 44
     }
@@ -207,10 +206,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 568,
-    "timeDay": 480,
-    "timeWeek": 618,
-    "timeMonth": 559,
-    "timeYear": 573,
+    "timeDay": 630,
+    "timeWeek": 583,
+    "timeMonth": 565,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2021-02-16": 44
     }
@@ -227,10 +226,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 847,
-    "timeDay": 644,
-    "timeWeek": 833,
-    "timeMonth": 824,
-    "timeYear": 849,
+    "timeDay": 1035,
+    "timeWeek": 837,
+    "timeMonth": 827,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2021-02-16": 43
     }
@@ -241,15 +240,15 @@
     "icon": "https://favicons.githubusercontent.com/reg.cyberduck.io",
     "slug": "cyberduck-payment-gateway",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 676,
-    "timeDay": 754,
-    "timeWeek": 761,
-    "timeMonth": 691,
+    "timeDay": 706,
+    "timeWeek": 737,
+    "timeMonth": 690,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2021-02-16": 33
