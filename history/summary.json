@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 299,
-    "timeWeek": 435,
-    "timeMonth": 412,
+    "timeDay": 480,
+    "timeWeek": 447,
+    "timeMonth": 414,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2022-02-10": 22
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 823,
-    "timeDay": 766,
-    "timeWeek": 872,
-    "timeMonth": 827,
+    "timeDay": 972,
+    "timeWeek": 897,
+    "timeMonth": 830,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2022-02-23": 19,
@@ -56,8 +56,7 @@
       "2021-06-19": 37,
       "2021-06-14": 36,
       "2021-06-07": 356,
-      "2021-05-25": 95,
-      "2021-05-18": 350
+      "2021-05-25": 95
     }
   },
   {
@@ -66,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/g.iterate.ch",
     "slug": "iterate-gmb-h-bitbucket",
     "status": "down",
-    "uptime": "91.61%",
+    "uptime": "91.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 633,
-    "timeWeek": 806,
-    "timeMonth": 817,
-    "timeYear": 725,
+    "time": 707,
+    "timeDay": 924,
+    "timeWeek": 835,
+    "timeMonth": 821,
+    "timeYear": 726,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 485,
-    "timeDay": 395,
-    "timeWeek": 495,
-    "timeMonth": 472,
-    "timeYear": 490,
+    "time": 486,
+    "timeDay": 612,
+    "timeWeek": 518,
+    "timeMonth": 473,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2022-02-10": 29
     }
@@ -110,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 740,
-    "timeDay": 602,
-    "timeWeek": 769,
-    "timeMonth": 729,
-    "timeYear": 753,
+    "timeDay": 974,
+    "timeWeek": 826,
+    "timeMonth": 732,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2022-02-10": 28
     }
@@ -129,10 +128,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 329,
-    "timeWeek": 400,
-    "timeMonth": 436,
+    "time": 443,
+    "timeDay": 490,
+    "timeWeek": 428,
+    "timeMonth": 410,
     "timeYear": 454,
     "dailyMinutesDown": {}
   },
@@ -148,10 +147,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 569,
-    "timeDay": 365,
-    "timeWeek": 535,
+    "timeDay": 601,
+    "timeWeek": 550,
     "timeMonth": 523,
-    "timeYear": 569,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2022-02-10": 27,
       "2021-11-29": 20,
@@ -169,11 +168,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 484,
-    "timeDay": 370,
-    "timeWeek": 499,
-    "timeMonth": 481,
-    "timeYear": 488,
+    "time": 485,
+    "timeDay": 662,
+    "timeWeek": 538,
+    "timeMonth": 485,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2022-02-10": 27
     }
@@ -190,10 +189,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 570,
-    "timeDay": 602,
-    "timeWeek": 623,
-    "timeMonth": 580,
-    "timeYear": 581,
+    "timeDay": 753,
+    "timeWeek": 663,
+    "timeMonth": 578,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2022-02-10": 26
     }
@@ -210,10 +209,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 848,
-    "timeDay": 725,
-    "timeWeek": 855,
-    "timeMonth": 846,
-    "timeYear": 844,
+    "timeDay": 994,
+    "timeWeek": 901,
+    "timeMonth": 851,
+    "timeYear": 843,
     "dailyMinutesDown": {
       "2022-02-10": 26
     }
@@ -230,10 +229,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 683,
-    "timeDay": 528,
-    "timeWeek": 680,
+    "timeDay": 803,
+    "timeWeek": 709,
     "timeMonth": 694,
-    "timeYear": 684,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2022-02-10": 17
     }
