@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 456,
-    "timeDay": 904,
-    "timeWeek": 544,
-    "timeMonth": 453,
+    "timeDay": 415,
+    "timeWeek": 535,
+    "timeMonth": 446,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2022-02-10": 22
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.88%",
     "time": 824,
-    "timeDay": 1018,
-    "timeWeek": 862,
-    "timeMonth": 839,
+    "timeDay": 821,
+    "timeWeek": 875,
+    "timeMonth": 831,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2022-02-23": 19,
@@ -64,15 +64,15 @@
     "icon": "https://favicons.githubusercontent.com/g.iterate.ch",
     "slug": "iterate-gmb-h-bitbucket",
     "status": "down",
-    "uptime": "91.80%",
+    "uptime": "91.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 1043,
-    "timeWeek": 853,
-    "timeMonth": 831,
+    "time": 709,
+    "timeDay": 685,
+    "timeWeek": 843,
+    "timeMonth": 820,
     "timeYear": 731,
     "dailyMinutesDown": {}
   },
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 487,
-    "timeDay": 714,
-    "timeWeek": 546,
-    "timeMonth": 488,
+    "timeDay": 502,
+    "timeWeek": 549,
+    "timeMonth": 482,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2022-02-10": 29
@@ -108,10 +108,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 744,
-    "timeDay": 1133,
-    "timeWeek": 846,
-    "timeMonth": 771,
-    "timeYear": 755,
+    "timeDay": 762,
+    "timeWeek": 830,
+    "timeMonth": 759,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2022-02-10": 28
     }
@@ -128,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 587,
-    "timeWeek": 484,
-    "timeMonth": 440,
+    "timeDay": 339,
+    "timeWeek": 474,
+    "timeMonth": 432,
     "timeYear": 456,
     "dailyMinutesDown": {}
   },
@@ -146,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 568,
-    "timeDay": 657,
-    "timeWeek": 549,
-    "timeMonth": 501,
+    "timeDay": 382,
+    "timeWeek": 533,
+    "timeMonth": 493,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2022-02-10": 27,
@@ -168,9 +168,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 487,
-    "timeDay": 726,
-    "timeWeek": 558,
-    "timeMonth": 506,
+    "timeDay": 394,
+    "timeWeek": 543,
+    "timeMonth": 495,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2022-02-10": 27
@@ -188,10 +188,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 572,
-    "timeDay": 854,
-    "timeWeek": 644,
-    "timeMonth": 602,
-    "timeYear": 582,
+    "timeDay": 559,
+    "timeWeek": 641,
+    "timeMonth": 592,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2022-02-10": 26
     }
@@ -208,10 +208,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 852,
-    "timeDay": 941,
-    "timeWeek": 859,
-    "timeMonth": 862,
-    "timeYear": 843,
+    "timeDay": 1107,
+    "timeWeek": 914,
+    "timeMonth": 870,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2022-02-10": 26
     }
@@ -228,10 +228,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 684,
-    "timeDay": 817,
-    "timeWeek": 682,
-    "timeMonth": 676,
-    "timeYear": 684,
+    "timeDay": 662,
+    "timeWeek": 688,
+    "timeMonth": 668,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2022-02-10": 17
     }
