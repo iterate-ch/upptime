@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 582,
-    "timeWeek": 444,
-    "timeMonth": 504,
-    "timeYear": 455,
+    "timeDay": 395,
+    "timeWeek": 439,
+    "timeMonth": 493,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2022-02-10": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
-    "time": 879,
-    "timeDay": 1122,
-    "timeWeek": 912,
-    "timeMonth": 939,
-    "timeYear": 907,
+    "time": 878,
+    "timeDay": 751,
+    "timeWeek": 895,
+    "timeMonth": 940,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2022-06-30": 239,
       "2022-02-23": 19,
@@ -48,8 +48,7 @@
       "2021-10-29": 71,
       "2021-10-03": 25,
       "2021-09-27": 315,
-      "2021-08-29": 610,
-      "2021-08-28": 698
+      "2021-08-29": 610
     }
   },
   {
@@ -58,16 +57,16 @@
     "icon": "https://favicons.githubusercontent.com/g.iterate.ch",
     "slug": "iterate-gmb-h-bitbucket",
     "status": "down",
-    "uptime": "93.02%",
+    "uptime": "93.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 749,
-    "timeDay": 1226,
-    "timeWeek": 872,
-    "timeMonth": 895,
-    "timeYear": 783,
+    "timeDay": 687,
+    "timeWeek": 828,
+    "timeMonth": 896,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   },
   {
@@ -82,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 500,
-    "timeDay": 715,
-    "timeWeek": 535,
-    "timeMonth": 546,
+    "timeDay": 382,
+    "timeWeek": 506,
+    "timeMonth": 542,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2022-02-10": 29
@@ -102,8 +101,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 768,
-    "timeDay": 1157,
-    "timeWeek": 871,
+    "timeDay": 629,
+    "timeWeek": 824,
     "timeMonth": 848,
     "timeYear": 786,
     "dailyMinutesDown": {
@@ -122,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
-    "timeDay": 996,
-    "timeWeek": 505,
-    "timeMonth": 484,
+    "timeDay": 314,
+    "timeWeek": 467,
+    "timeMonth": 483,
     "timeYear": 467,
     "dailyMinutesDown": {}
   },
@@ -140,10 +139,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 563,
-    "timeDay": 756,
-    "timeWeek": 529,
-    "timeMonth": 540,
-    "timeYear": 561,
+    "timeDay": 378,
+    "timeWeek": 497,
+    "timeMonth": 536,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2022-02-10": 27,
       "2021-11-29": 20,
@@ -162,10 +161,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 499,
-    "timeDay": 711,
-    "timeWeek": 525,
-    "timeMonth": 538,
-    "timeYear": 510,
+    "timeDay": 586,
+    "timeWeek": 528,
+    "timeMonth": 544,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2022-02-10": 27
     }
@@ -182,9 +181,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 589,
-    "timeDay": 1004,
-    "timeWeek": 645,
-    "timeMonth": 643,
+    "timeDay": 467,
+    "timeWeek": 616,
+    "timeMonth": 637,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2022-02-10": 26
@@ -201,10 +200,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 1045,
-    "timeWeek": 853,
-    "timeMonth": 875,
+    "time": 855,
+    "timeDay": 859,
+    "timeWeek": 868,
+    "timeMonth": 873,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2022-02-10": 26
@@ -216,15 +215,15 @@
     "icon": "https://favicons.githubusercontent.com/reg.cyberduck.io",
     "slug": "cyberduck-payment-gateway",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 690,
-    "timeDay": 850,
-    "timeWeek": 781,
-    "timeMonth": 750,
+    "timeDay": 915,
+    "timeWeek": 794,
+    "timeMonth": 763,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2022-02-10": 17
