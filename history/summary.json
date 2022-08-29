@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 395,
-    "timeWeek": 439,
-    "timeMonth": 493,
-    "timeYear": 456,
+    "timeDay": 424,
+    "timeWeek": 455,
+    "timeMonth": 494,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2022-02-10": 22
     }
@@ -29,12 +29,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.04%",
-    "time": 878,
-    "timeDay": 751,
-    "timeWeek": 895,
-    "timeMonth": 940,
-    "timeYear": 908,
+    "uptimeYear": "99.18%",
+    "time": 879,
+    "timeDay": 896,
+    "timeWeek": 875,
+    "timeMonth": 945,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2022-06-30": 239,
       "2022-02-23": 19,
@@ -47,8 +47,7 @@
       "2021-11-04": 385,
       "2021-10-29": 71,
       "2021-10-03": 25,
-      "2021-09-27": 315,
-      "2021-08-29": 610
+      "2021-09-27": 315
     }
   },
   {
@@ -57,15 +56,15 @@
     "icon": "https://favicons.githubusercontent.com/g.iterate.ch",
     "slug": "iterate-gmb-h-bitbucket",
     "status": "down",
-    "uptime": "93.03%",
+    "uptime": "93.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 687,
-    "timeWeek": 828,
-    "timeMonth": 896,
+    "time": 750,
+    "timeDay": 896,
+    "timeWeek": 862,
+    "timeMonth": 901,
     "timeYear": 782,
     "dailyMinutesDown": {}
   },
@@ -81,9 +80,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 500,
-    "timeDay": 382,
-    "timeWeek": 506,
-    "timeMonth": 542,
+    "timeDay": 562,
+    "timeWeek": 533,
+    "timeMonth": 545,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2022-02-10": 29
@@ -100,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 768,
-    "timeDay": 629,
-    "timeWeek": 824,
-    "timeMonth": 848,
-    "timeYear": 786,
+    "time": 769,
+    "timeDay": 916,
+    "timeWeek": 873,
+    "timeMonth": 859,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2022-02-10": 28
     }
@@ -121,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
-    "timeDay": 314,
-    "timeWeek": 467,
-    "timeMonth": 483,
-    "timeYear": 467,
+    "timeDay": 438,
+    "timeWeek": 486,
+    "timeMonth": 487,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -139,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 563,
-    "timeDay": 378,
-    "timeWeek": 497,
-    "timeMonth": 536,
+    "timeDay": 628,
+    "timeWeek": 539,
+    "timeMonth": 540,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2022-02-10": 27,
@@ -161,9 +160,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 499,
-    "timeDay": 586,
-    "timeWeek": 528,
-    "timeMonth": 544,
+    "timeDay": 710,
+    "timeWeek": 577,
+    "timeMonth": 555,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2022-02-10": 27
@@ -181,10 +180,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 589,
-    "timeDay": 467,
-    "timeWeek": 616,
-    "timeMonth": 637,
-    "timeYear": 604,
+    "timeDay": 666,
+    "timeWeek": 650,
+    "timeMonth": 645,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2022-02-10": 26
     }
@@ -201,9 +200,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 855,
-    "timeDay": 859,
-    "timeWeek": 868,
-    "timeMonth": 873,
+    "timeDay": 938,
+    "timeWeek": 878,
+    "timeMonth": 866,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2022-02-10": 26
@@ -220,10 +219,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 915,
-    "timeWeek": 794,
-    "timeMonth": 763,
+    "time": 691,
+    "timeDay": 790,
+    "timeWeek": 820,
+    "timeMonth": 770,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2022-02-10": 17
