@@ -92,19 +92,19 @@
     "url": "https://version.cyberduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/version.cyberduck.io.ico",
     "slug": "cyberduck-update-check",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 812,
+    "time": 813,
     "timeDay": 692,
     "timeWeek": 748,
     "timeMonth": 902,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2023-01-25": 10,
+      "2023-01-25": 2,
       "2022-02-10": 28
     }
   },
@@ -131,10 +131,10 @@
     "url": "https://trac.cyberduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/trac.cyberduck.io.ico",
     "slug": "cyberduck-trac",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 541,
@@ -143,6 +143,7 @@
     "timeMonth": 556,
     "timeYear": 513,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-02-10": 27
     }
   },
@@ -171,19 +172,19 @@
     "url": "https://version.mountainduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/version.mountainduck.io.ico",
     "slug": "mountain-duck-update-check",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 607,
+    "time": 608,
     "timeDay": 473,
     "timeWeek": 553,
     "timeMonth": 657,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
+      "2023-01-25": 1,
       "2022-02-10": 26
     }
   },
@@ -212,9 +213,9 @@
     "url": "https://reg.cyberduck.io/payment",
     "icon": "https://icons.duckduckgo.com/ip3/reg.cyberduck.io.ico",
     "slug": "cyberduck-payment-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -224,6 +225,7 @@
     "timeMonth": 789,
     "timeYear": 724,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-02-10": 17
     }
   }
