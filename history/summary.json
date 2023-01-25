@@ -24,18 +24,19 @@
     "url": "https://jira.iterate.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/jira.iterate.ch.ico",
     "slug": "iterate-gmb-h-jira",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.34%",
-    "uptimeMonth": "97.32%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "88.32%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "99.47%",
-    "time": 912,
+    "time": 913,
     "timeDay": 976,
     "timeWeek": 1099,
     "timeMonth": 971,
     "timeYear": 947,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2023-01-24": 352,
       "2023-01-23": 355,
       "2023-01-22": 468,
@@ -92,11 +93,11 @@
     "url": "https://version.cyberduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/version.cyberduck.io.ico",
     "slug": "cyberduck-update-check",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 812,
     "timeDay": 668,
@@ -104,7 +105,7 @@
     "timeMonth": 894,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2023-01-25": 6,
+      "2023-01-25": 1,
       "2022-02-10": 28
     }
   },
@@ -133,9 +134,9 @@
     "slug": "cyberduck-trac",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 540,
     "timeDay": 578,
@@ -143,7 +144,6 @@
     "timeMonth": 551,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-01-25": 6,
       "2022-02-10": 27
     }
   },
@@ -174,9 +174,9 @@
     "slug": "mountain-duck-update-check",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 607,
     "timeDay": 477,
@@ -184,7 +184,6 @@
     "timeMonth": 651,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-02-10": 26
     }
   },
@@ -215,9 +214,9 @@
     "slug": "cyberduck-payment-gateway",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 713,
     "timeDay": 672,
@@ -225,7 +224,6 @@
     "timeMonth": 787,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-02-10": 17
     }
   }
