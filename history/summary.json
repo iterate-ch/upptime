@@ -73,18 +73,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.iterate.ch.ico",
     "slug": "iterate-gmb-h-nextcloud",
     "status": "down",
-    "uptime": "28.15%",
-    "uptimeDay": "28.15%",
-    "uptimeWeek": "28.15%",
-    "uptimeMonth": "28.15%",
-    "uptimeYear": "28.15%",
+    "uptime": "13.75%",
+    "uptimeDay": "13.75%",
+    "uptimeWeek": "13.75%",
+    "uptimeMonth": "13.75%",
+    "uptimeYear": "13.75%",
     "time": 1576,
     "timeDay": 1576,
     "timeWeek": 1576,
     "timeMonth": 1576,
     "timeYear": 1576,
     "dailyMinutesDown": {
-      "2023-01-28": 0
+      "2023-01-28": 1
     }
   },
   {
