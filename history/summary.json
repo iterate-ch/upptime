@@ -4,19 +4,19 @@
     "url": "https://iterate.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/iterate.ch.ico",
     "slug": "iterate-gmb-h-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 468,
-    "timeDay": 307,
-    "timeWeek": 446,
+    "timeDay": 385,
+    "timeWeek": 448,
     "timeMonth": 475,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-21": 7
     }
   },
   {
@@ -83,7 +83,7 @@
     "timeMonth": 1582,
     "timeYear": 1931,
     "dailyMinutesDown": {
-      "2023-04-21": 220,
+      "2023-04-21": 227,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
