@@ -82,7 +82,7 @@
     "timeMonth": 1511,
     "timeYear": 1715,
     "dailyMinutesDown": {
-      "2023-06-05": 14,
+      "2023-06-05": 1356,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
@@ -218,82 +218,90 @@
     "url": "https://cyberduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/cyberduck.io.ico",
     "slug": "cyberduck-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 527,
     "timeDay": 371,
     "timeWeek": 547,
     "timeMonth": 583,
     "timeYear": 543,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 4
+    }
   },
   {
     "name": "Cyberduck Update Check",
     "url": "https://version.cyberduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/version.cyberduck.io.ico",
     "slug": "cyberduck-update-check",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 842,
+    "time": 843,
     "timeDay": 758,
     "timeWeek": 904,
     "timeMonth": 929,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 3
+    }
   },
   {
     "name": "Cyberduck CLI",
     "url": "https://duck.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/duck.sh.ico",
     "slug": "cyberduck-cli",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 466,
+    "time": 465,
     "timeDay": 291,
     "timeWeek": 495,
     "timeMonth": 481,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 3
+    }
   },
   {
     "name": "Cyberduck Trac",
     "url": "https://trac.cyberduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/trac.cyberduck.io.ico",
     "slug": "cyberduck-trac",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 519,
     "timeDay": 664,
     "timeWeek": 566,
     "timeMonth": 568,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 2
+    }
   },
   {
     "name": "Mountain Duck",
     "url": "https://mountainduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/mountainduck.io.ico",
     "slug": "mountain-duck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 532,
@@ -301,17 +309,19 @@
     "timeWeek": 539,
     "timeMonth": 590,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 2
+    }
   },
   {
     "name": "Mountain Duck Update Check",
     "url": "https://version.mountainduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/version.mountainduck.io.ico",
     "slug": "mountain-duck-update-check",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 619,
@@ -319,17 +329,19 @@
     "timeWeek": 630,
     "timeMonth": 667,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 1
+    }
   },
   {
     "name": "Mountain Duck Payment Gateway",
     "url": "https://reg.mountainduck.io/payment",
     "icon": "https://icons.duckduckgo.com/ip3/reg.mountainduck.io.ico",
     "slug": "mountain-duck-payment-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 912,
@@ -337,24 +349,28 @@
     "timeWeek": 863,
     "timeMonth": 1006,
     "timeYear": 930,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 1
+    }
   },
   {
     "name": "Cyberduck Payment Gateway",
     "url": "https://reg.cyberduck.io/payment",
     "icon": "https://icons.duckduckgo.com/ip3/reg.cyberduck.io.ico",
     "slug": "cyberduck-payment-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
+    "time": 733,
     "timeDay": 513,
     "timeWeek": 700,
     "timeMonth": 794,
     "timeYear": 743,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   }
 ]
