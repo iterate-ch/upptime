@@ -13,10 +13,8 @@ sites:
   - name: iterate GmbH Bitbucket
     url: https://g.iterate.ch/
     method: GET
-    expectedStatusCodes:
-      - 302
   - name: iterate GmbH Nextcloud
-    url: https://cloud.iterate.ch/ocs/v2.php/apps/serverinfo/api/v1/info
+    url: https://cloud.iterate.ch/login
     method: GET
   - name: Cyberduck Website
     url: https://cyberduck.io/
