@@ -1,7 +1,7 @@
 url: https://jira.iterate.ch/
-status: down
-code: 503
-responseTime: 422
-lastUpdated: 2024-07-05T10:49:49.676Z
+status: up
+code: 200
+responseTime: 1123
+lastUpdated: 2024-07-05T11:54:36.589Z
 startTime: 2020-12-29T10:58:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
