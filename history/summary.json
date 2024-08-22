@@ -44,9 +44,9 @@
     "url": "https://g.iterate.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/g.iterate.ch.ico",
     "slug": "iterate-gmb-h-bitbucket",
-    "status": "up",
+    "status": "down",
     "uptime": "96.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 773,
     "timeMonth": 811,
     "timeYear": 877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-22": 0
+    }
   },
   {
     "name": "iterate GmbH Nextcloud",
@@ -63,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.iterate.ch.ico",
     "slug": "iterate-gmb-h-nextcloud",
     "status": "up",
-    "uptime": "37.70%",
+    "uptime": "37.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.75%",
+    "uptimeYear": "58.94%",
     "time": 983,
     "timeDay": 750,
     "timeWeek": 663,
