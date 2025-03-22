@@ -6,18 +6,16 @@
     "slug": "iterate-gmb-h-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 508,
     "timeDay": 381,
     "timeWeek": 462,
     "timeMonth": 514,
     "timeYear": 501,
-    "dailyMinutesDown": {
-      "2025-03-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "iterate GmbH JIRA",
