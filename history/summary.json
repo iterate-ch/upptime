@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.iterate.ch.ico",
     "slug": "iterate-gmb-h-nextcloud",
     "status": "up",
-    "uptime": "58.77%",
+    "uptime": "58.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -138,18 +138,20 @@
     "url": "https://trac.cyberduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/trac.cyberduck.io.ico",
     "slug": "cyberduck-trac",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
-    "timeDay": 1263,
-    "timeWeek": 1118,
-    "timeMonth": 1116,
+    "timeDay": 886,
+    "timeWeek": 1042,
+    "timeMonth": 1097,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-10": 0
+    }
   },
   {
     "name": "Mountain Duck",
