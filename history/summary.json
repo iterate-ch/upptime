@@ -136,19 +136,19 @@
     "url": "https://trac.cyberduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/trac.cyberduck.io.ico",
     "slug": "cyberduck-trac",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 1851,
-    "timeWeek": 1270,
-    "timeMonth": 1228,
-    "timeYear": 784,
+    "time": 739,
+    "timeDay": 1612,
+    "timeWeek": 1256,
+    "timeMonth": 1225,
+    "timeYear": 785,
     "dailyMinutesDown": {
-      "2025-07-28": 0
+      "2025-07-28": 12
     }
   },
   {
