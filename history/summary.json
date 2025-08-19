@@ -4,19 +4,19 @@
     "url": "https://iterate.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/iterate.ch.ico",
     "slug": "iterate-gmb-h-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 391,
-    "timeWeek": 448,
-    "timeMonth": 494,
-    "timeYear": 507,
+    "time": 544,
+    "timeDay": 10212,
+    "timeWeek": 2897,
+    "timeMonth": 1104,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2025-08-19": 1
+      "2025-08-19": 7
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://cyberduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/cyberduck.io.ico",
     "slug": "cyberduck-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 636,
-    "timeWeek": 1110,
-    "timeMonth": 760,
-    "timeYear": 641,
+    "time": 657,
+    "timeDay": 5737,
+    "timeWeek": 2326,
+    "timeMonth": 1075,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2025-08-19": 1
+      "2025-08-19": 7
     }
   },
   {
@@ -179,9 +179,9 @@
     "url": "https://version.mountainduck.io/",
     "icon": "https://icons.duckduckgo.com/ip3/version.mountainduck.io.ico",
     "slug": "mountain-duck-update-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,34 +190,38 @@
     "timeWeek": 665,
     "timeMonth": 732,
     "timeYear": 717,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-19": 0
+    }
   },
   {
     "name": "Mountain Duck Payment Gateway",
     "url": "https://reg.mountainduck.io/payment",
     "icon": "https://icons.duckduckgo.com/ip3/reg.mountainduck.io.ico",
     "slug": "mountain-duck-payment-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
+    "time": 935,
     "timeDay": 863,
     "timeWeek": 763,
     "timeMonth": 832,
     "timeYear": 915,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-19": 0
+    }
   },
   {
     "name": "Cyberduck Payment Gateway",
     "url": "https://reg.cyberduck.io/payment",
     "icon": "https://icons.duckduckgo.com/ip3/reg.cyberduck.io.ico",
     "slug": "cyberduck-payment-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -226,6 +230,8 @@
     "timeWeek": 724,
     "timeMonth": 772,
     "timeYear": 826,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-19": 0
+    }
   }
 ]
