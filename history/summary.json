@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.iterate.ch.ico",
     "slug": "iterate-gmb-h-nextcloud",
     "status": "up",
-    "uptime": "61.98%",
+    "uptime": "61.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -191,18 +191,20 @@
     "url": "https://reg.mountainduck.io/payment",
     "icon": "https://icons.duckduckgo.com/ip3/reg.mountainduck.io.ico",
     "slug": "mountain-duck-payment-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 935,
-    "timeDay": 760,
-    "timeWeek": 791,
-    "timeMonth": 816,
-    "timeYear": 914,
-    "dailyMinutesDown": {}
+    "timeDay": 740,
+    "timeWeek": 783,
+    "timeMonth": 813,
+    "timeYear": 913,
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "Cyberduck Payment Gateway",
