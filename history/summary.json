@@ -191,19 +191,19 @@
     "url": "https://reg.mountainduck.io/payment",
     "icon": "https://icons.duckduckgo.com/ip3/reg.mountainduck.io.ico",
     "slug": "mountain-duck-payment-gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 935,
-    "timeDay": 740,
-    "timeWeek": 783,
-    "timeMonth": 813,
+    "timeDay": 815,
+    "timeWeek": 801,
+    "timeMonth": 817,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2025-08-22": 0
+      "2025-08-22": 8
     }
   },
   {
