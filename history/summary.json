@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 410,
-    "timeWeek": 2924,
-    "timeMonth": 1090,
-    "timeYear": 561,
+    "timeDay": 424,
+    "timeWeek": 2926,
+    "timeMonth": 1087,
+    "timeYear": 559,
     "dailyMinutesDown": {}
   },
   {
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 865,
-    "timeDay": 717,
-    "timeWeek": 789,
-    "timeMonth": 829,
-    "timeYear": 878,
+    "timeDay": 738,
+    "timeWeek": 807,
+    "timeMonth": 822,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2025-02-04": 36
     }
@@ -47,11 +47,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 860,
-    "timeDay": 675,
-    "timeWeek": 784,
-    "timeMonth": 828,
+    "timeDay": 714,
+    "timeWeek": 768,
+    "timeMonth": 820,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2025-02-03": 70
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.iterate.ch.ico",
     "slug": "iterate-gmb-h-nextcloud",
     "status": "up",
-    "uptime": "61.99%",
+    "uptime": "62.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 694,
-    "timeDay": 478,
-    "timeWeek": 545,
-    "timeMonth": 543,
-    "timeYear": 679,
+    "timeDay": 468,
+    "timeWeek": 544,
+    "timeMonth": 540,
+    "timeYear": 678,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
-    "timeDay": 628,
-    "timeWeek": 1893,
-    "timeMonth": 1064,
+    "timeDay": 452,
+    "timeWeek": 1873,
+    "timeMonth": 1056,
     "timeYear": 669,
     "dailyMinutesDown": {}
   },
@@ -105,10 +105,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 979,
-    "timeDay": 911,
-    "timeWeek": 980,
-    "timeMonth": 990,
-    "timeYear": 989,
+    "timeDay": 584,
+    "timeWeek": 955,
+    "timeMonth": 979,
+    "timeYear": 987,
     "dailyMinutesDown": {}
   },
   {
@@ -123,10 +123,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
-    "timeDay": 390,
-    "timeWeek": 487,
-    "timeMonth": 522,
-    "timeYear": 526,
+    "timeDay": 381,
+    "timeWeek": 488,
+    "timeMonth": 515,
+    "timeYear": 525,
     "dailyMinutesDown": {}
   },
   {
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 768,
-    "timeDay": 918,
-    "timeWeek": 1017,
-    "timeMonth": 1160,
-    "timeYear": 818,
+    "time": 769,
+    "timeDay": 1103,
+    "timeWeek": 1052,
+    "timeMonth": 1158,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2025-07-29": 43,
       "2025-07-28": 1
@@ -162,10 +162,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 627,
-    "timeDay": 534,
+    "timeDay": 468,
     "timeWeek": 561,
-    "timeMonth": 641,
-    "timeYear": 631,
+    "timeMonth": 637,
+    "timeYear": 630,
     "dailyMinutesDown": {}
   },
   {
@@ -180,10 +180,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 712,
-    "timeDay": 608,
-    "timeWeek": 689,
-    "timeMonth": 712,
-    "timeYear": 718,
+    "timeDay": 623,
+    "timeWeek": 687,
+    "timeMonth": 711,
+    "timeYear": 717,
     "dailyMinutesDown": {}
   },
   {
@@ -193,18 +193,16 @@
     "slug": "mountain-duck-payment-gateway",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 815,
-    "timeWeek": 801,
-    "timeMonth": 817,
-    "timeYear": 913,
-    "dailyMinutesDown": {
-      "2025-08-22": 8
-    }
+    "time": 938,
+    "timeDay": 1223,
+    "timeWeek": 916,
+    "timeMonth": 850,
+    "timeYear": 916,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cyberduck Payment Gateway",
@@ -218,10 +216,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 842,
-    "timeDay": 716,
-    "timeWeek": 731,
-    "timeMonth": 753,
-    "timeYear": 822,
+    "timeDay": 810,
+    "timeWeek": 753,
+    "timeMonth": 756,
+    "timeYear": 821,
     "dailyMinutesDown": {}
   }
 ]
