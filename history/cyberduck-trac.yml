@@ -1,7 +1,7 @@
 url: https://trac.cyberduck.io/
-status: up
-code: 200
-responseTime: 1245
-lastUpdated: 2025-10-31T23:02:14.744Z
+status: down
+code: 502
+responseTime: 1125
+lastUpdated: 2025-11-01T09:27:54.724Z
 startTime: 2020-12-28T12:01:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
