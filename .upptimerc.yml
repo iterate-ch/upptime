@@ -16,6 +16,9 @@ sites:
   - name: iterate GmbH Nextcloud
     url: https://cloud.iterate.ch/login
     method: GET
+  - name: iterate GmbH Listmonk
+    url: https://listmonk.iterate.ch/health
+    method: GET
   - name: Cyberduck Website
     url: https://cyberduck.io/
     method: GET
