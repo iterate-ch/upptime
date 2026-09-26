@@ -59,7 +59,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.iterate.ch.ico",
     "slug": "iterate-gmb-h-nextcloud",
     "status": "up",
-    "uptime": "73.32%",
+    "uptime": "73.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -79,12 +79,12 @@
     "url": "https://listmonk.iterate.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.iterate.ch.ico",
     "slug": "iterate-gmb-h-listmonk",
-    "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.93%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.31%",
-    "uptimeYear": "96.90%",
+    "uptimeYear": "96.93%",
     "time": 515,
     "timeDay": 452,
     "timeWeek": 531,
@@ -96,7 +96,8 @@
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 426,
-      "2026-09-12": 22
+      "2026-09-12": 22,
+      "2026-09-26": 0
     }
   },
   {
