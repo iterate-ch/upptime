@@ -79,17 +79,17 @@
     "url": "https://listmonk.iterate.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.iterate.ch.ico",
     "slug": "iterate-gmb-h-listmonk",
-    "status": "down",
-    "uptime": "97.18%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "status": "up",
+    "uptime": "97.14%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "92.14%",
-    "uptimeYear": "97.18%",
-    "time": 513,
-    "timeDay": 505,
-    "timeWeek": 509,
-    "timeMonth": 526,
-    "timeYear": 513,
+    "uptimeYear": "97.14%",
+    "time": 512,
+    "timeDay": 478,
+    "timeWeek": 502,
+    "timeMonth": 524,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2026-07-13": 105,
       "2026-09-11": 479,
@@ -98,7 +98,7 @@
       "2026-09-08": 426,
       "2026-09-12": 22,
       "2026-09-26": 180,
-      "2026-10-09": 0
+      "2026-10-09": 50
     }
   },
   {
