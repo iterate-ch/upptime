@@ -58,9 +58,9 @@
     "url": "https://cloud.iterate.ch/login",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.iterate.ch.ico",
     "slug": "iterate-gmb-h-nextcloud",
-    "status": "up",
-    "uptime": "73.82%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "73.83%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -71,7 +71,8 @@
     "timeYear": 605,
     "dailyMinutesDown": {
       "2026-05-29": 564,
-      "2026-05-28": 352
+      "2026-05-28": 352,
+      "2026-10-22": 0
     }
   },
   {
