@@ -13,11 +13,20 @@ sites:
   - name: iterate GmbH Bitbucket
     url: https://g.iterate.ch/
     method: GET
-  - name: iterate GmbH Nextcloud
-    url: https://cloud.iterate.ch/login
-    method: GET
   - name: iterate GmbH Listmonk
     url: https://listmonk.iterate.ch/health
+    method: GET
+  - name: iterate GmbH Plausible
+    url: https://webstats.iterate.ch/api/health
+    method: GET
+  - name: iterate GmbH Vaultwarden
+    url: https://secrets.iterate.ch/alive
+    method: GET
+  - name: iterate GmbH OpenCloud
+    url: https://drive.iterate.ch/
+    method: GET
+  - name: iterate GmbH Portainer
+    url: https://portainer.majestix.iterate.ch/api/system/status
     method: GET
   - name: Cyberduck Website
     url: https://cyberduck.io/
