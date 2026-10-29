@@ -86,18 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webstats.iterate.ch.ico",
     "slug": "iterate-gmb-h-plausible",
     "status": "down",
-    "uptime": "35.70%",
-    "uptimeDay": "35.70%",
-    "uptimeWeek": "35.70%",
-    "uptimeMonth": "35.70%",
-    "uptimeYear": "35.70%",
+    "uptime": "18.01%",
+    "uptimeDay": "18.01%",
+    "uptimeWeek": "18.01%",
+    "uptimeMonth": "18.01%",
+    "uptimeYear": "18.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 0
+      "2026-10-29": 1
     }
   },
   {
