@@ -1,7 +1,7 @@
 url: https://webstats.iterate.ch/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-29T22:22:54.152Z
+status: up
+code: 200
+responseTime: 468
+lastUpdated: 2026-10-29T22:46:53.448Z
 startTime: 2026-10-29T06:08:58.796Z
 generator: Upptime <https://github.com/upptime/upptime>
