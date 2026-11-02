@@ -58,16 +58,16 @@
     "url": "https://listmonk.iterate.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.iterate.ch.ico",
     "slug": "iterate-gmb-h-listmonk",
-    "status": "down",
+    "status": "up",
     "uptime": "97.03%",
-    "uptimeDay": "65.04%",
-    "uptimeWeek": "87.92%",
+    "uptimeDay": "65.06%",
+    "uptimeWeek": "87.91%",
     "uptimeMonth": "97.11%",
     "uptimeYear": "97.03%",
     "time": 521,
-    "timeDay": 604,
-    "timeWeek": 557,
-    "timeMonth": 539,
+    "timeDay": 565,
+    "timeWeek": 549,
+    "timeMonth": 536,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2026-07-13": 105,
@@ -82,7 +82,7 @@
       "2026-10-30": 129,
       "2026-10-31": 340,
       "2026-11-01": 428,
-      "2026-11-02": 205
+      "2026-11-02": 206
     }
   },
   {
@@ -92,7 +92,7 @@
     "slug": "iterate-gmb-h-plausible",
     "status": "up",
     "uptime": "74.22%",
-    "uptimeDay": "66.49%",
+    "uptimeDay": "66.56%",
     "uptimeWeek": "74.22%",
     "uptimeMonth": "74.22%",
     "uptimeYear": "74.22%",
@@ -116,7 +116,7 @@
     "slug": "iterate-gmb-h-vaultwarden",
     "status": "up",
     "uptime": "84.60%",
-    "uptimeDay": "76.89%",
+    "uptimeDay": "76.95%",
     "uptimeWeek": "84.60%",
     "uptimeMonth": "84.60%",
     "uptimeYear": "84.60%",
@@ -139,11 +139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.iterate.ch.ico",
     "slug": "iterate-gmb-h-open-cloud",
     "status": "up",
-    "uptime": "83.65%",
-    "uptimeDay": "69.26%",
-    "uptimeWeek": "83.65%",
-    "uptimeMonth": "83.65%",
-    "uptimeYear": "83.65%",
+    "uptime": "83.83%",
+    "uptimeDay": "70.15%",
+    "uptimeWeek": "83.83%",
+    "uptimeMonth": "83.83%",
+    "uptimeYear": "83.83%",
     "time": 594,
     "timeDay": 594,
     "timeWeek": 594,
@@ -154,7 +154,7 @@
       "2026-10-30": 113,
       "2026-10-31": 293,
       "2026-11-01": 382,
-      "2026-11-02": 175
+      "2026-11-02": 163
     }
   },
   {
@@ -163,11 +163,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.majestix.iterate.ch.ico",
     "slug": "iterate-gmb-h-portainer",
     "status": "up",
-    "uptime": "84.43%",
-    "uptimeDay": "70.69%",
-    "uptimeWeek": "84.43%",
-    "uptimeMonth": "84.43%",
-    "uptimeYear": "84.43%",
+    "uptime": "84.54%",
+    "uptimeDay": "71.24%",
+    "uptimeWeek": "84.54%",
+    "uptimeMonth": "84.54%",
+    "uptimeYear": "84.54%",
     "time": 513,
     "timeDay": 504,
     "timeWeek": 513,
@@ -178,7 +178,7 @@
       "2026-10-30": 108,
       "2026-10-31": 278,
       "2026-11-01": 370,
-      "2026-11-02": 162
+      "2026-11-02": 155
     }
   },
   {
