@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.iterate.ch.ico",
     "slug": "iterate-gmb-h-listmonk",
     "status": "down",
-    "uptime": "96.70%",
-    "uptimeDay": "65.16%",
-    "uptimeWeek": "81.34%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "96.70%",
+    "uptime": "96.68%",
+    "uptimeDay": "63.69%",
+    "uptimeWeek": "81.13%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "96.68%",
     "time": 663,
     "timeDay": 4688,
     "timeWeek": 1413,
@@ -83,7 +83,8 @@
       "2026-10-31": 340,
       "2026-11-01": 428,
       "2026-11-02": 367,
-      "2026-11-03": 502
+      "2026-11-03": 508,
+      "2026-11-04": 15
     }
   },
   {
@@ -92,11 +93,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/webstats.iterate.ch.ico",
     "slug": "iterate-gmb-h-plausible",
     "status": "down",
-    "uptime": "72.70%",
-    "uptimeDay": "67.07%",
-    "uptimeWeek": "72.70%",
-    "uptimeMonth": "72.70%",
-    "uptimeYear": "72.70%",
+    "uptime": "72.52%",
+    "uptimeDay": "65.60%",
+    "uptimeWeek": "72.52%",
+    "uptimeMonth": "72.52%",
+    "uptimeYear": "72.52%",
     "time": 513,
     "timeDay": 565,
     "timeWeek": 513,
@@ -108,7 +109,8 @@
       "2026-10-31": 323,
       "2026-11-01": 412,
       "2026-11-02": 344,
-      "2026-11-03": 474
+      "2026-11-03": 480,
+      "2026-11-04": 15
     }
   },
   {
@@ -117,11 +119,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/secrets.iterate.ch.ico",
     "slug": "iterate-gmb-h-vaultwarden",
     "status": "down",
-    "uptime": "81.13%",
-    "uptimeDay": "69.04%",
-    "uptimeWeek": "81.13%",
-    "uptimeMonth": "81.13%",
-    "uptimeYear": "81.13%",
+    "uptime": "80.92%",
+    "uptimeDay": "67.57%",
+    "uptimeWeek": "80.92%",
+    "uptimeMonth": "80.92%",
+    "uptimeYear": "80.92%",
     "time": 1460,
     "timeDay": 613,
     "timeWeek": 1460,
@@ -133,7 +135,8 @@
       "2026-10-31": 309,
       "2026-11-01": 398,
       "2026-11-02": 194,
-      "2026-11-03": 445
+      "2026-11-03": 451,
+      "2026-11-04": 15
     }
   },
   {
@@ -142,11 +145,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.iterate.ch.ico",
     "slug": "iterate-gmb-h-open-cloud",
     "status": "down",
-    "uptime": "81.13%",
-    "uptimeDay": "71.73%",
-    "uptimeWeek": "81.13%",
-    "uptimeMonth": "81.13%",
-    "uptimeYear": "81.13%",
+    "uptime": "80.92%",
+    "uptimeDay": "70.26%",
+    "uptimeWeek": "80.92%",
+    "uptimeMonth": "80.92%",
+    "uptimeYear": "80.92%",
     "time": 621,
     "timeDay": 630,
     "timeWeek": 621,
@@ -158,7 +161,8 @@
       "2026-10-31": 293,
       "2026-11-01": 382,
       "2026-11-02": 292,
-      "2026-11-03": 407
+      "2026-11-03": 413,
+      "2026-11-04": 15
     }
   },
   {
@@ -166,24 +170,25 @@
     "url": "https://portainer.majestix.iterate.ch/api/system/status",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.majestix.iterate.ch.ico",
     "slug": "iterate-gmb-h-portainer",
-    "status": "down",
-    "uptime": "82.04%",
-    "uptimeDay": "73.17%",
-    "uptimeWeek": "82.04%",
-    "uptimeMonth": "82.04%",
-    "uptimeYear": "82.04%",
-    "time": 514,
-    "timeDay": 456,
-    "timeWeek": 514,
-    "timeMonth": 514,
-    "timeYear": 514,
+    "status": "up",
+    "uptime": "81.83%",
+    "uptimeDay": "71.72%",
+    "uptimeWeek": "81.83%",
+    "uptimeMonth": "81.83%",
+    "uptimeYear": "81.83%",
+    "time": 1379,
+    "timeDay": 3782,
+    "timeWeek": 1379,
+    "timeMonth": 1379,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2026-10-29": 67,
       "2026-10-30": 108,
       "2026-10-31": 278,
       "2026-11-01": 370,
       "2026-11-02": 275,
-      "2026-11-03": 386
+      "2026-11-03": 392,
+      "2026-11-04": 15
     }
   },
   {
