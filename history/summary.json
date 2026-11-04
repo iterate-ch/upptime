@@ -59,13 +59,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.iterate.ch.ico",
     "slug": "iterate-gmb-h-listmonk",
     "status": "down",
-    "uptime": "96.64%",
-    "uptimeDay": "85.13%",
-    "uptimeWeek": "79.84%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "96.64%",
+    "uptime": "96.59%",
+    "uptimeDay": "81.82%",
+    "uptimeWeek": "78.94%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "96.59%",
     "time": 661,
-    "timeDay": 558,
+    "timeDay": 572,
     "timeWeek": 1346,
     "timeMonth": 947,
     "timeYear": 661,
@@ -84,7 +84,7 @@
       "2026-11-01": 428,
       "2026-11-02": 367,
       "2026-11-03": 508,
-      "2026-11-04": 146
+      "2026-11-04": 236
     }
   },
   {
@@ -93,13 +93,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/webstats.iterate.ch.ico",
     "slug": "iterate-gmb-h-plausible",
     "status": "down",
-    "uptime": "74.86%",
-    "uptimeDay": "86.25%",
-    "uptimeWeek": "74.86%",
-    "uptimeMonth": "74.86%",
-    "uptimeYear": "74.86%",
+    "uptime": "74.16%",
+    "uptimeDay": "82.83%",
+    "uptimeWeek": "74.16%",
+    "uptimeMonth": "74.16%",
+    "uptimeYear": "74.16%",
     "time": 514,
-    "timeDay": 548,
+    "timeDay": 569,
     "timeWeek": 514,
     "timeMonth": 514,
     "timeYear": 514,
@@ -110,7 +110,7 @@
       "2026-11-01": 412,
       "2026-11-02": 344,
       "2026-11-03": 480,
-      "2026-11-04": 137
+      "2026-11-04": 227
     }
   },
   {
@@ -119,13 +119,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/secrets.iterate.ch.ico",
     "slug": "iterate-gmb-h-vaultwarden",
     "status": "down",
-    "uptime": "82.26%",
-    "uptimeDay": "87.26%",
-    "uptimeWeek": "82.26%",
-    "uptimeMonth": "82.26%",
-    "uptimeYear": "82.26%",
+    "uptime": "81.49%",
+    "uptimeDay": "83.84%",
+    "uptimeWeek": "81.49%",
+    "uptimeMonth": "81.49%",
+    "uptimeYear": "81.49%",
     "time": 1383,
-    "timeDay": 587,
+    "timeDay": 619,
     "timeWeek": 1383,
     "timeMonth": 1383,
     "timeYear": 1383,
@@ -136,7 +136,7 @@
       "2026-11-01": 398,
       "2026-11-02": 194,
       "2026-11-03": 451,
-      "2026-11-04": 127
+      "2026-11-04": 217
     }
   },
   {
@@ -144,17 +144,17 @@
     "url": "https://drive.iterate.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/drive.iterate.ch.ico",
     "slug": "iterate-gmb-h-open-cloud",
-    "status": "down",
-    "uptime": "82.36%",
-    "uptimeDay": "88.27%",
-    "uptimeWeek": "82.36%",
-    "uptimeMonth": "82.36%",
-    "uptimeYear": "82.36%",
-    "time": 615,
-    "timeDay": 618,
-    "timeWeek": 615,
-    "timeMonth": 615,
-    "timeYear": 615,
+    "status": "up",
+    "uptime": "81.59%",
+    "uptimeDay": "84.88%",
+    "uptimeWeek": "81.59%",
+    "uptimeMonth": "81.59%",
+    "uptimeYear": "81.59%",
+    "time": 601,
+    "timeDay": 517,
+    "timeWeek": 601,
+    "timeMonth": 601,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2026-10-29": 71,
       "2026-10-30": 113,
@@ -162,7 +162,7 @@
       "2026-11-01": 382,
       "2026-11-02": 292,
       "2026-11-03": 413,
-      "2026-11-04": 117
+      "2026-11-04": 207
     }
   },
   {
@@ -170,17 +170,17 @@
     "url": "https://portainer.majestix.iterate.ch/api/system/status",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.majestix.iterate.ch.ico",
     "slug": "iterate-gmb-h-portainer",
-    "status": "down",
-    "uptime": "83.43%",
-    "uptimeDay": "90.43%",
-    "uptimeWeek": "83.43%",
-    "uptimeMonth": "83.43%",
-    "uptimeYear": "83.43%",
-    "time": 1343,
-    "timeDay": 5451,
-    "timeWeek": 1343,
-    "timeMonth": 1343,
-    "timeYear": 1343,
+    "status": "up",
+    "uptime": "82.65%",
+    "uptimeDay": "87.04%",
+    "uptimeWeek": "82.65%",
+    "uptimeMonth": "82.65%",
+    "uptimeYear": "82.65%",
+    "time": 1310,
+    "timeDay": 5464,
+    "timeWeek": 1310,
+    "timeMonth": 1310,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2026-10-29": 67,
       "2026-10-30": 108,
@@ -188,7 +188,7 @@
       "2026-11-01": 370,
       "2026-11-02": 275,
       "2026-11-03": 392,
-      "2026-11-04": 90
+      "2026-11-04": 180
     }
   },
   {
