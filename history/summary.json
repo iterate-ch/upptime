@@ -60,8 +60,8 @@
     "slug": "iterate-gmb-h-listmonk",
     "status": "down",
     "uptime": "96.68%",
-    "uptimeDay": "63.69%",
-    "uptimeWeek": "81.13%",
+    "uptimeDay": "63.56%",
+    "uptimeWeek": "81.11%",
     "uptimeMonth": "95.54%",
     "uptimeYear": "96.68%",
     "time": 663,
@@ -84,7 +84,7 @@
       "2026-11-01": 428,
       "2026-11-02": 367,
       "2026-11-03": 508,
-      "2026-11-04": 15
+      "2026-11-04": 17
     }
   },
   {
@@ -93,11 +93,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/webstats.iterate.ch.ico",
     "slug": "iterate-gmb-h-plausible",
     "status": "down",
-    "uptime": "72.52%",
-    "uptimeDay": "65.60%",
-    "uptimeWeek": "72.52%",
-    "uptimeMonth": "72.52%",
-    "uptimeYear": "72.52%",
+    "uptime": "72.50%",
+    "uptimeDay": "65.47%",
+    "uptimeWeek": "72.50%",
+    "uptimeMonth": "72.50%",
+    "uptimeYear": "72.50%",
     "time": 513,
     "timeDay": 565,
     "timeWeek": 513,
@@ -110,7 +110,7 @@
       "2026-11-01": 412,
       "2026-11-02": 344,
       "2026-11-03": 480,
-      "2026-11-04": 15
+      "2026-11-04": 17
     }
   },
   {
@@ -119,11 +119,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/secrets.iterate.ch.ico",
     "slug": "iterate-gmb-h-vaultwarden",
     "status": "down",
-    "uptime": "80.92%",
-    "uptimeDay": "67.57%",
-    "uptimeWeek": "80.92%",
-    "uptimeMonth": "80.92%",
-    "uptimeYear": "80.92%",
+    "uptime": "80.90%",
+    "uptimeDay": "67.44%",
+    "uptimeWeek": "80.90%",
+    "uptimeMonth": "80.90%",
+    "uptimeYear": "80.90%",
     "time": 1460,
     "timeDay": 613,
     "timeWeek": 1460,
@@ -136,7 +136,7 @@
       "2026-11-01": 398,
       "2026-11-02": 194,
       "2026-11-03": 451,
-      "2026-11-04": 15
+      "2026-11-04": 17
     }
   },
   {
@@ -145,11 +145,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.iterate.ch.ico",
     "slug": "iterate-gmb-h-open-cloud",
     "status": "down",
-    "uptime": "80.92%",
-    "uptimeDay": "70.26%",
-    "uptimeWeek": "80.92%",
-    "uptimeMonth": "80.92%",
-    "uptimeYear": "80.92%",
+    "uptime": "80.90%",
+    "uptimeDay": "70.13%",
+    "uptimeWeek": "80.90%",
+    "uptimeMonth": "80.90%",
+    "uptimeYear": "80.90%",
     "time": 621,
     "timeDay": 630,
     "timeWeek": 621,
@@ -162,7 +162,7 @@
       "2026-11-01": 382,
       "2026-11-02": 292,
       "2026-11-03": 413,
-      "2026-11-04": 15
+      "2026-11-04": 17
     }
   },
   {
