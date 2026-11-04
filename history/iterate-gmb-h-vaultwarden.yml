@@ -1,7 +1,7 @@
 url: https://secrets.iterate.ch/alive
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-04T20:58:08.501Z
+status: up
+code: 200
+responseTime: 552
+lastUpdated: 2026-11-04T22:39:22.635Z
 startTime: 2026-10-29T06:09:14.204Z
 generator: Upptime <https://github.com/upptime/upptime>
