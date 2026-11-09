@@ -10,9 +10,6 @@ sites:
   - name: iterate GmbH JIRA
     url: https://jira.iterate.ch/
     method: GET
-  - name: iterate GmbH Bitbucket
-    url: https://g.iterate.ch/
-    method: GET
   - name: iterate GmbH Listmonk
     url: https://listmonk.iterate.ch/health
     method: GET
