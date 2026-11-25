@@ -1,7 +1,7 @@
 url: https://portainer.majestix.iterate.ch/api/system/status
 status: up
 code: 200
-responseTime: 404
-lastUpdated: 2026-11-24T23:02:35.436Z
+responseTime: 383
+lastUpdated: 2026-11-25T23:02:33.235Z
 startTime: 2026-10-29T06:09:15.775Z
 generator: Upptime <https://github.com/upptime/upptime>
